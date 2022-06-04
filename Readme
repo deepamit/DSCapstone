@@ -1,1 +1,9 @@
+In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. 
+Objectives
+•	Aim is to create a machine learning pipeline to predict if first stage of a rocket launch is successfully landed
+•	Data collection using Spacex API and through web scraping from Wikipedia
+•	Data wrangling including one hot encoding data fields and dropping irrelevant columns
+•	Exploratory data analysis by visualization using matplotlib and seaborn libraries and also using SQL
+•	Interactive visual analytics using Folium and Plotly Dash
+•	Classification models (Logistic regression, Decision tree, SVM, KNN) building, evaluating, tuning and finding best model with highest accuracy score   
 
